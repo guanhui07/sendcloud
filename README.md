@@ -5,7 +5,7 @@
 ## Installing
 
 ```shell
-$ composer require overtrue/sendcloud -vvv
+$ composer require guanhui07/sendcloud -vvv
 ```
 
 ## Usage
